@@ -1,6 +1,8 @@
 .container {
+  background:#F9F7F5;
   margin: 0 auto;
-  max-width: 500px;
+  max-width: 520px;
+  overflow: auto;
 }
 
 a {
@@ -22,17 +24,10 @@ h1 {
 
 body {
   font-family: 'Open Sans', Arial, sans-serif;
-  background: lightgrey;
-}
-
-.container {
-  background:lightgrey;
-  margin:0 auto;
-  overflow: auto;
 }
 
 header, section {
-  background:white;
+  background: #fff;
   margin:20px;
   padding:30px;
 }
@@ -53,7 +48,7 @@ section img {
 
 section h2 {
   padding-bottom:9.9167px;
-  border-bottom: 2px orange solid;
+  border-bottom: 2px #D19A61 solid;
   margin:0 0 15px 0;
 }
 
