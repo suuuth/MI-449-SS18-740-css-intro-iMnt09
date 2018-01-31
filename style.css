@@ -5,31 +5,33 @@
 }
 
 a {
-  color:purple;
+  color: purple;
 }
 
 a:hover {
-  color:orange;
+  color: orange;
 }
 
-h1, .tagline {
+h1,
+.tagline {
   text-align: center;
   font-size: 15px;
 }
 
 h1 {
-  font-size:30px;
+  font-size: 30px;
 }
 
 body {
-  background:#F9F7F5;
+  background: #F9F7F5;
   font-family: 'Open Sans', Arial, sans-serif;
 }
 
-header, section {
+header,
+section {
   background: #fff;
-  margin:20px;
-  padding:30px;
+  margin: 20px;
+  padding: 30px;
 }
 
 header h1 {
@@ -41,19 +43,19 @@ header .tagline {
 }
 
 section img {
-  height:auto;
-  width:50px;
-  margin:0 10px 10px 0;
+  height: auto;
+  width: 50px;
+  margin: 0 10px 10px 0;
 }
 
 section h2 {
-  padding-bottom:9.9167px;
+  padding-bottom: 9.9167px;
   border-bottom: 2px #D19A61 solid;
-  margin:0 0 15px 0;
+  margin: 0 0 15px 0;
 }
 
 section h2 .city-description {
-  font-size:15px;
-  margin-left:17px;
-  font-weight:normal;
+  font-size: 15px;
+  margin-left: 17px;
+  font-weight: normal;
 }
