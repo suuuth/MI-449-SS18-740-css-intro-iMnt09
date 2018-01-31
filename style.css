@@ -1,5 +1,6 @@
 .container {
   background:#F9F7F5;
+  padding:0 100px 50px 100px;
   margin: 0 auto;
   max-width: 520px;
   overflow: auto;
